@@ -2,6 +2,8 @@
 
 This is a repository of all the files, including my own dataset, that was used to train a football robots ML vision system. 
 
+The main repository can be found [here](https://github.com/kristoferkp/proustite-deltax/tree/main).
+
 The video files were recorded using OBS on testing day. 
 
 I did the labeling using Roboflow. They have excellent labeling tools. 
